@@ -1,4 +1,6 @@
 #test{
     color:#F00;
     font-size:60px;
+    border:1px solid #FF0;
+    background:#F00;
 }
